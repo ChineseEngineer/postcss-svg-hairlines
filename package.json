@@ -1,0 +1,26 @@
+{
+  "name": "postcss-svg-hairlines",
+  "version": "1.0.0",
+  "description": "retina screen 1px border",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChineseEngineer/postcss-svg-hairlines.git"
+  },
+  "keywords": [
+    "1px",
+    "border",
+    "retina",
+    "svg",
+    "hairlines"
+  ],
+  "author": "ChinessEnginner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChineseEngineer/postcss-svg-hairlines/issues"
+  },
+  "homepage": "https://github.com/ChineseEngineer/postcss-svg-hairlines#readme"
+}
