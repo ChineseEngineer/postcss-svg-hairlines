@@ -1,6 +1,6 @@
 {
   "name": "postcss-svg-hairlines",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "retina screen 1px border",
   "main": "index.js",
   "scripts": {

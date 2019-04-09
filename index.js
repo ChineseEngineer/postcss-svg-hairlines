@@ -35,7 +35,6 @@ function isBlackList(blacklist, selector) {
 }
 
 function getBorderColor(value) {
-  console.log('===value====' + value)
   value = value.replace(/\s+/ig, ' ')
   return value.split(' ')[2]
 }
